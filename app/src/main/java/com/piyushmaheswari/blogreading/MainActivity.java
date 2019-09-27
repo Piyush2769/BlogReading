@@ -26,6 +26,10 @@ import javax.xml.parsers.DocumentBuilderFactory;
 public class MainActivity extends AppCompatActivity {
 
 
+
+    private RelativeLayout relativeLayouts1;
+    private LinearLayout linearLayout1s;
+
     private TextView textView;
     private ImageView imageView;
 
